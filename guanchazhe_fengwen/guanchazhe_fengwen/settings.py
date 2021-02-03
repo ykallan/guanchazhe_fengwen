@@ -51,7 +51,7 @@ DEFAULT_REQUEST_HEADERS = {
     'Referer': 'https://user.guancha.cn/user/personal-homepage?uid=125369',
     'Accept-Encoding': 'gzip, deflate, br',
     'Accept-Language': 'zh-CN,zh;q=0.9,en;q=0.8',
-    'Cookie': 'Hm_lvt_8ab18ec6e3ee89210917ef2c8572b30e=1612315851; UM_distinctid=177658378e98cf-07450544f12d7-13e3563-1fa400-177658378ea312; PHPSESSID=hlooru204m55h3bas7knbujihh; CNZZDATA1254137364=2101027020-1612315063-%7C1612320463; Hm_lpvt_8ab18ec6e3ee89210917ef2c8572b30e=1612320620',
+    'Cookie': 'your own cookie',
 
 }
 
